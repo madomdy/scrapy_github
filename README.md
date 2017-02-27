@@ -4,7 +4,7 @@ This project provides an ability to get nested info about github users. For the 
 
 ## Example
 
-The result for exporing [koder-ua](https://github.com/koder-ua) with `depth=3` are stored as JSON and it's available [here](https://jsonblob.com/c4e9fb60-fc15-11e6-a0ba-499cf00ed991).
+The result for exploring [koder-ua](https://github.com/koder-ua) followers with `depth=3` are stored as JSON and available [here](https://jsonblob.com/c4e9fb60-fc15-11e6-a0ba-499cf00ed991).
 
 ## Installation
 
